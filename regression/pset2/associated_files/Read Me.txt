@@ -1,0 +1,29 @@
+Notes:
+
+1) Relationship between file names and labels in Figure 2 of Problem Set 3 
+File Names           Figure 2 Labels
+“GoodPPG”            	yo
+“CorruptedPPG”       	y
+“noise_reference”    	a  
+
+2) There is one “GoodPPG” reference signal that can be used to compare your      
+“recovered” signals, z, with for both data sets. 
+
+3) One of the data sets is “tricky.” Can you explain why you are getting strange results? 
+
+4) How do you think you should choose the filter order? 
+
+-----------------------------------------------------------------------------------------
+The reference "good" signal is in:
+GoodPPG.txt
+
+Data set 1 contains the following files:
+CorruptedPPG1.txt
+noise_reference1.txt
+
+Data set 2 contains the following files:
+CorruptedPPG2.txt
+noise_reference2.txt
+
+
+

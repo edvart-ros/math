@@ -1,0 +1,20 @@
+You can test your MATLAB code for Problem 3 using the following files:
+test-data-input.txt
+test-data-output.txt
+
+Use these files for Problem 3a:
+input_u_a.txt
+output_y_a.txt
+Theta_1_a.txt
+Theta_2_a.txt
+Theta_3_a.txt
+
+Use these files for Problem 3b:
+input_u_b.txt
+output_y_b.txt
+Theta_1_b.txt
+Theta_2_b.txt
+Theta_3_b.txt
+
+
+
